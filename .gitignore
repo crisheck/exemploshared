@@ -70,6 +70,7 @@ build/
 .dart_tool/
 
 # iOS
+/ios
 Pods/
 Podfile.lock
 Pods.xcodeproj/
@@ -150,3 +151,9 @@ ios/Flutter/flutter_export_environment.sh
 
 # jks files
 *.jks
+
+# outras plataformas
+/linux
+/macos
+/web
+/windows
